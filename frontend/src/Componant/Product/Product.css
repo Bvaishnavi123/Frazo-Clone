@@ -1,0 +1,17 @@
+#mainContainer{
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+}
+#Container1{
+    width: 20%;
+  margin-top: 0;
+    padding-left: 50px;
+    padding-top: 0%;
+
+}
+#Container2{
+    width: 80%;
+padding-left: 10px;
+    padding-right: 50px;
+}

@@ -1,0 +1,54 @@
+.react-multiple-carousel__arrow {
+  background-color: rgb(206, 188, 188);
+  opacity: 0.9;
+  font-weight: 900;
+}
+.react-multiple-carousel__arrow:hover {
+  background-color: rgb(73, 77, 75);
+}
+#mainContainer {
+  width: 100%;
+}
+#container1 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+#carosel11 {
+  padding: 10px;
+  max-width: max-content;
+}
+
+#lowerbox {
+  display: flex;
+  margin-top: 15px;
+  justify-content: space-between;
+}
+#leftbox {
+  display: flex;
+  flex-direction: column;
+  line-height: normal;
+}
+#name {
+  text-align: left;
+  color: rgb(184, 168, 168);
+  font-size: 15px;
+}
+#imgbox {
+  display: flex;
+  justify-content: center;
+}
+
+#qty {
+  text-align: left;
+  color: rgb(184, 168, 168);
+  font-size: 13px;
+}
+#price {
+  color: black;
+  font-size: 16px;
+  text-align: left;
+}
+#cartbutton {
+  margin-top: 11%;
+}

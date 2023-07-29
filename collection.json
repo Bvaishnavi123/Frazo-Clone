@@ -1,0 +1,344 @@
+[
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VMAN12.png",
+        "name": "Mango Raw",
+        "quantity": "250 g",
+        "price": 14
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/FKES1.png",
+        "name": "Mango Kesar",
+        "quantity": "1 Kg",
+        "price": 219
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/135/original/data?1612689931",
+        "name": "Mango Badami",
+        "quantity": "1 Kg",
+        "price": 129
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/images/images/000/004/597/original/data?1647577454",
+        "name": "Mango Totapuri Raw",
+        "quantity": "1 Kg",
+        "price": 108
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/329/original/data?1616795305",
+        "name": "Alphonso Mango Devgad",
+        "quantity": "6 pcs",
+        "price": 479
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/339/original/data?1620237313",
+        "name": "Alphonso Mango Devgad (2 x 6 pcs)",
+        "quantity": "1 Dozen",
+        "price": 949
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/images/images/000/007/294/original/data?1650906368",
+        "name": "Mango Mallika",
+        "quantity": "1 Kg",
+        "price": 179
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/432/original/data/tr:w-256,h-256",
+        "name": "Grape Fruit",
+        "quantity": "1 Pc",
+        "price": "66"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FAVO21.png/tr:w-256,h-256",
+        "name": "Avocado Indian",
+        "quantity": "1 Pc",
+        "price": "89"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FBLU1.png/tr:w-256,h-256",
+        "name": "Blueberry",
+        "quantity": "1 Unit",
+        "price": "319"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FKIW2.png/tr:w-256,h-256",
+        "name": "Kiwi Green",
+        "quantity": "1 Unit",
+        "price": "102"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/008/185/original/data/tr:w-256,h-256",
+        "name": "Kashmir Cherry",
+        "quantity": "200g",
+        "price": "92"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/008/251/original/data/tr:w-256,h-256",
+        "name": "Fresh green Almond",
+        "quantity": "250g",
+        "price": "79"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/008/053/original/data/tr:w-256,h-256",
+        "name": "Plum Indian",
+        "quantity": "250g",
+        "price": "69"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FDRA1.png/tr:w-256,h-256",
+        "name": "Dragon Fruit",
+        "quantity": "1 Pc",
+        "price": "105"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/235/original/data/tr:w-256,h-256",
+        "name": "Avocado Imported",
+        "quantity": "1 Pc",
+        "price": "115"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FPEA1.png/tr:w-256,h-256",
+        "name": "Indian Peach",
+        "quantity": "500 g",
+        "price": "135"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/007/690/original/data/tr:w-256,h-256",
+        "name": "Litchi / Lychee",
+        "quantity": "500 g",
+        "price": "275"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/008/022/original/data/tr:w-256,h-256",
+        "name": "Premium Apricot Shakarpara",
+        "quantity": "200 g",
+        "price": "49"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/261/original/data/tr:w-256,h-256",
+        "name": "Pomegranate (Anar)",
+        "quantity": "3 Pc",
+        "price": "141"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/157/original/data/tr:w-256,h-256",
+        "name": "Pineapple",
+        "quantity": "800g - 1Kg",
+        "price": "109"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/VPAP12.png/tr:w-256,h-256",
+        "name": "Papaya Raw",
+        "quantity": "1 Pc",
+        "price": "29"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FBAN14.png/tr:w-256,h-256",
+        "name": "Banana Robusta",
+        "quantity": "1 Kg",
+        "price": "49"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/FMOS13.png/tr:w-256,h-256",
+        "name": "Mosambi (Sweet Lime)",
+        "quantity": "1 Kg",
+        "price": "129"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VBEE12.png",
+        "name": "Beetroot",
+        "quantity": "500 g",
+        "price": "16"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/BONI11.png",
+        "name": "Onion",
+        "quantity": "1 kg",
+        "price": "15"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/101/original/data?1612451098",
+        "name": "Pumpkin Green",
+        "quantity": "500 g",
+        "price": "15"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VSWE12.png",
+        "name": "Sweet Potato",
+        "quantity": "500 g",
+        "price": "40"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VSUR12.png",
+        "name": "Yam (Suran / Elephant Foot)",
+        "quantity": "500 g",
+        "price": "35"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/EMUS2.png/tr:w-256,h-256",
+        "name": "Mushrooms Button",
+        "quantity": "1 Unit",
+        "price": "39"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/EBAS11.png/tr:w-256,h-256",
+        "name": "Basil Italian",
+        "quantity": "50 g",
+        "price": "9"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/387/original/data/tr:w-256,h-256",
+        "name": "Capsicum Yellow / Bell Pepper",
+        "quantity": "2 Pcs (250-350g)",
+        "price": "109"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/386/original/data/tr:w-256,h-256",
+        "name": "Capsicum Red",
+        "quantity": "2 Pcs",
+        "price": "109"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/EZUC12.png/tr:w-256,h-256",
+        "name": "Zucchini Green",
+        "quantity": "200-300 gm/pc",
+        "price": "59"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/ELET22.png/tr:w-256,h-256",
+        "name": "Lettuce Iceberg",
+        "quantity": "200-300 gm",
+        "price": "109"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-master/EBRO12.png/tr:w-256,h-256",
+        "name": "Broccoli",
+        "quantity": "450-550 gm",
+        "price": "199"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VCHI22.png",
+        "name": "Chillies Green",
+        "quantity": "100 g",
+        "price": "9"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/LCOR21.png",
+        "name": "Coriander Leaves / Dhania / Kothimbir",
+        "quantity": "100 g",
+        "price": "15"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VGAR12.png",
+        "name": "Garlic Bunch / Lahsun / Vellulipaya",
+        "quantity": "100 g",
+        "price": "10"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/VGIN12.png",
+        "name": "Ginger / Adrak",
+        "quantity": "100 g",
+        "price": "6"
+    },
+    {
+        "image": "https://fraazo-master.s3.ap-south-1.amazonaws.com/products/LMET1.png",
+        "name": "Methi (Fenugreek Leaves)",
+        "quantity": "100 g",
+        "price": "11"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/578/original/data?1635085993",
+        "name": "Cashew 200gms (Pack of 2*100gms)",
+        "quantity": "200 g",
+        "price": "182"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/579/original/data?1635086198",
+        "name": "Cashew 500gms (Pack of 5*100gms)",
+        "quantity": "500 g",
+        "price": "450"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/580/original/data?1635086672",
+        "name": "Cashew Tukda - 100gm",
+        "quantity": "100 g",
+        "price": "84"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/584/original/data?1635137208",
+        "name": "Walnut 200gms (Pack of 2*100gms)",
+        "quantity": "200 g",
+        "price": "335"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/000/585/original/data?1635137356",
+        "name": "Walnut 500gms (Pack of 5*100gms)",
+        "quantity": "500 g",
+        "price": "825"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
+        "name": "Dry Dates (Pack of 5*200gms)",
+        "quantity": "1 Kg",
+        "price": "330"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
+        "name": "Dry Dates (Pack of 2*200gms)",
+        "quantity": "400 g",
+        "price": "135"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
+        "name": "Dry Dates",
+        "quantity": "200 g",
+        "price": "70"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/435/original/data?1643108708",
+        "name": "Maya Besan 500G",
+        "quantity": "500 g",
+        "price": "54"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/437/original/data?1643108712",
+        "name": "Maya Chana Dal Premium 500G",
+        "quantity": "500 g",
+        "price": "57"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/438/original/data?1643108714",
+        "name": "Maya Chana Dal Standerd 500G",
+        "quantity": "500 g",
+        "price": "49"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/439/original/data?1643108717",
+        "name": "Maya Groundnut 500G",
+        "quantity": "500 g",
+        "price": "85"
+    },
+    {
+        "image": "https://s3.ap-south-1.amazonaws.com/fraazo-prod/products/product_images/000/003/440/original/data?1643108719",
+        "name": "Maya Juwar Premium 1Kg",
+        "quantity": "1 kg",
+        "price": "56"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/images/images/000/005/083/original/data/tr:w-256,h-256",
+        "name": "Maya HMT Kolam Rice(5 Kg)",
+        "quantity": "5 kg",
+        "price": "254"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/449/original/data/tr:w-256,h-256",
+        "name": "Maya Maida",
+        "quantity": "500 g",
+        "price": "22"
+    },
+    {
+        "image": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/449/original/data/tr:w-256,h-256",
+        "name": "Maya Premium Suji",
+        "quantity": "500 g",
+        "price": "29"
+    }
+]

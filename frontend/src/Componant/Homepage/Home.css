@@ -1,0 +1,13 @@
+#headingbox{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    border-bottom: 1px solid rgb(223, 209, 209);
+}
+#headingboxText{
+    font-size: 30px;
+    text-align: left;
+    font-weight: 350;
+    color: rgb(87, 87, 87);
+    color: green;
+}

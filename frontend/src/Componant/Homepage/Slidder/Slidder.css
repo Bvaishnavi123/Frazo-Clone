@@ -1,0 +1,33 @@
+#slider {
+  display: flex;
+  width: 100%;
+  gap: 30px;
+  margin-top: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+#right-slider {
+  width: 32%;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+}
+#left-slider {
+    width: 65%;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+  }
+#leftimg {
+  width: 100%;
+}
+
+#right-slider-1 {
+  width: 100%;
+}
+#right-slider-2 {
+  width: 100%;
+}
+#right-slider-3 {
+  width: 100%;
+}

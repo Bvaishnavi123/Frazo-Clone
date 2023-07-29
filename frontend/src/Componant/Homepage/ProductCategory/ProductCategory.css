@@ -1,0 +1,15 @@
+#MainContainer {
+  margin-left: 20px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 60px;
+}
+#Container11 {
+  width: 270px;
+}
+#Container11 > img {
+  border-radius: 3%;
+}
