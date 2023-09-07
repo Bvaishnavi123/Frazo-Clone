@@ -38,113 +38,213 @@ function Login() {
   const [regpassword, setRegPassword] = useState("");
 
   const { loginAuth, handelUser } = useContext(AuthContext);
-  function handleCallbackResponse(res){
-    
-    // var userID = jwt_decode(res.credential);
-    // setUserName(userID.name)
-    // dispatch(isAuth(true));
-    // navigate('/')
-}
-  useEffect(() => {
-    google.accounts.id.initialize({
-      client_id:
-        "1018777173719-po881ts69fnll531n7v5ksti1g22v10t.apps.googleusercontent.com",
-      callback: handleCallbackResponse,
-    });
-
-    google.accounts.id.renderButton(document.getElementById("signInDiv"), {
-      theme: "outline",
-    });
-  }, []);
+ const [data,setData] = useState([])
+ 
 
   const handelRegister = () => {
-    axios({
-      url: "https://fraazomasaiapi.herokuapp.com/api/signup",
-      method: "POST",
-      data: {
-        firstname: regfirstName,
-        lastname: reglastName,
-        email: regEmail,
-        password: regpassword,
-      },
-    })
-      .then((res) => {
-        toast({
-          title: "Account created.",
-          position: "top",
-          description: res.data.message,
-          status: "success",
-          duration: 4000,
-          isClosable: true,
-        });
-        SetLogin(!login);
-      })
-      .catch((err) => {
-        let a = err.response.data.error
-          ? err.response.data.error
-          : err.response.data.message;
-
-        console.log(err);
-        toast({
-          title: "Error",
-          position: "top",
-          description: a,
-          status: "error",
-          duration: 4000,
-          isClosable: true,
-        });
+    if(regfirstName === ""){
+      toast({
+              title: "Enter the first name",
+              position: "top",
+              status: "error",
+              duration: 4000,
+              isClosable: true,
+            });
+            return
+    }
+   else if(reglastName === ""){
+      toast({
+        title: "Enter the last name",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
       });
-    setRegFirstName("");
-    setRegLastName("");
-    setRegEmail("");
-    setRegPassword("");
+      return
+    }
+   else if(regEmail === ""){
+      toast({
+        title: "Enter the email",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
+      });
+      return
+    }
+    else if(regpassword === ""){
+      toast({
+        title: "Enter the password",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
+      });
+      return
+    }else{
+      toast({
+        title: "Register Successfully",
+        position: "top",
+        status: "success",
+        duration: 4000,
+        isClosable: true,
+      });
+      localStorage.setItem("regData" , JSON.stringify([...data , {fname :regfirstName,lname:reglastName,email:regEmail,pass: regpassword}]))
+      SetLogin(!login)
+
+      setRegFirstName("");
+      setRegLastName("");
+      setRegEmail("");
+      setRegPassword("");
+    }
+    // axios({
+    //   url: "https://fraazomasaiapi.herokuapp.com/api/signup",
+    //   method: "POST",
+    //   data: {
+    //     firstname: regfirstName,
+    //     lastname: reglastName,
+    //     email: regEmail,
+    //     password: regpassword,
+    //   },
+    // })
+    //   .then((res) => {
+    //     toast({
+    //       title: "Account created.",
+    //       position: "top",
+    //       description: res.data.message,
+    //       status: "success",
+    //       duration: 4000,
+    //       isClosable: true,
+    //     });
+    //     SetLogin(!login);
+    //   })
+    //   .catch((err) => {
+    //     let a = err.response.data.error
+    //       ? err.response.data.error
+    //       : err.response.data.message;
+
+    //     console.log(err);
+    //     toast({
+    //       title: "Error",
+    //       position: "top",
+    //       description: a,
+    //       status: "error",
+    //       duration: 4000,
+    //       isClosable: true,
+    //     });
+    //   });
+  
   };
 
   const [logEmail, setlogEmail] = useState("");
   const [logpassword, setLogPassword] = useState("");
 
   const handelLogin = () => {
-    axios({
-      url: "https://fraazomasaiapi.herokuapp.com/api/signin",
-      method: "POST",
-      data: {
-        email: logEmail,
-        password: logpassword,
-      },
-    })
-      .then((res) => {
-        console.log(res);
-        toast({
-          title: "Login Successfull",
-          position: "top",
-          status: "success",
-          duration: 4000,
-          isClosable: true,
-        });
-        loginAuth(res.data.token);
-        handelUser(res.data.user.firstname);
-        onClose();
-      })
-      .catch((err) => {
-        toast({
-          title: "Error",
-          position: "top",
-          description: err.response.data.message,
-          status: "error",
-          duration: 4000,
-          isClosable: true,
-        });
+    // axios({
+    //   url: "https://fraazomasaiapi.herokuapp.com/api/signin",
+    //   method: "POST",
+    //   data: {
+    //     email: logEmail,
+    //     password: logpassword,
+    //   },
+    // })
+    //   .then((res) => {
+    //     console.log(res);
+    //     toast({
+    //       title: "Login Successfull",
+    //       position: "top",
+    //       status: "success",
+    //       duration: 4000,
+    //       isClosable: true,
+    //     });
+    //     loginAuth(res.data.token);
+    //     handelUser(res.data.user.firstname);
+    //     onClose();
+    //   })
+    //   .catch((err) => {
+    //     toast({
+    //       title: "Error",
+    //       position: "top",
+    //       description: err.response.data.message,
+    //       status: "error",
+    //       duration: 4000,
+    //       isClosable: true,
+    //     });
+
+     //   });
+     if(logEmail===""){
+      toast({
+        title: "Enter Email",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
       });
+      return
+    }
+    if(logpassword === ""){
+      toast({
+        title: "Enter Password",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
+      });
+      return
+    }
+  const getUserArr = JSON.parse(localStorage.getItem('regData'))
+  
+   if(getUserArr && getUserArr.length > 0){
+    const userLogin = getUserArr.filter((ele)=> {
+      return ele.email === logEmail && ele.pass === logpassword
+    })
+
+    console.log(userLogin)
+
+    if(userLogin.length === 0){
+      toast({
+        title: "Invalid Details or User is not registered",
+        position: "top",
+        status: "error",
+        duration: 4000,
+        isClosable: true,
+      });
+      SetLogin(!login)
+      return
+      
+    }else{
+      toast({
+        title: "Login Successfully",
+        position: "top",
+        status: "success",
+        duration: 4000,
+        isClosable: true,
+      });
+      
+      onClose()
+      setlogEmail("");
+      setLogPassword("");
+     
+    }
+   }else{
+    toast({
+      title: "Please Register first",
+      position: "top",
+      status: "error",
+      duration: 4000,
+      isClosable: true,
+    });
+    
+    SetLogin(!login)
     setlogEmail("");
     setLogPassword("");
+   }
+   
   };
 
-  function handleCallbackResponse(res) {
-    var userID = jwt_decode(res.credential);
-    // setUserName(userID.name)
-    // dispatch(isAuth(true));
-    // navigate('/')
-  }
+
+
+ 
 
   return (
     <>
@@ -209,10 +309,7 @@ function Login() {
                   >
                     Sign in
                   </Button>
-                  <div id="google">
-                    <div style={{ color: "grey" }}>or connect via</div>
-                    <div id="signInDiv" style={{ marginLeft: "5px" }}></div>
-                  </div>
+                 
                 </Stack>
                 <Stack pt={6}>
                   <Text align={"center"}>
