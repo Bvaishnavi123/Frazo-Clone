@@ -37,7 +37,7 @@ function Login() {
   const [regEmail, setRegEmail] = useState("");
   const [regpassword, setRegPassword] = useState("");
 
-  const { loginAuth, handelUser } = useContext(AuthContext);
+  const { loginAuth, handelUser,user } = useContext(AuthContext);
  const [data,setData] = useState([])
  
 
@@ -213,6 +213,8 @@ function Login() {
       return
       
     }else{
+      loginAuth("Login Successfully")
+      handelUser(userLogin[0]?.fname)
       toast({
         title: "Login Successfully",
         position: "top",
@@ -252,7 +254,7 @@ function Login() {
         <div>
           <FaUserAlt />
         </div>{" "}
-        Login
+        {user==""?'Login':user}
       </Button>
 
       {login ? (
