@@ -102,7 +102,11 @@ _Or you can directly explore our project through this link_
 
 ### Netlify Link
 
+<<<<<<< Updated upstream
 [[https://fraazo-masai.netlify.app/](https://64fa05ebece2472d46ce71ec--rococo-jelly-94240f.netlify.app/)](https://frazoclone.netlify.app)
+=======
+https://frazoclone.netlify.app
+>>>>>>> Stashed changes
  ------
  <h1>WEBSITE USER FLOW ></h1>
  ----
