@@ -63,7 +63,7 @@ export const coldPressed = [
 
 export const fruits = [
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Green-Mango.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000587_11-fresho-raw-mango.jpg?tr=w-640,q=80",
     name: "Mango Raw",
     quantity: "250 g",
     price: 14,
@@ -189,104 +189,98 @@ export const fruits = [
 export const vegetables = [
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Beetroot-405x330.jpg",
+      "https://www.bigbasket.com/media/uploads/p/l/10000045-2_34-fresho-beetroot.jpg",
     name: "Beetroot",
     quantity: "500 g",
     price: "16",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Onion-1-405x330.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000148-2_2-fresho-onion.jpg",
     name: "Onion",
     quantity: "1 kg",
     price: "15",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Pumpkin-green-405x330.png",
+      "https://www.bigbasket.com/media/uploads/p/l/40050087_4-fresho-pumpkin-green-cut.jpg",
     name: "Pumpkin Green",
     quantity: "500 g",
     price: "15",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Sweet-potato.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000194-2_2-fresho-sweet-potato.jpg",
     name: "Sweet Potato",
     quantity: "500 g",
     price: "40",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Yam.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40050085-2_1-fresho-yam-cut.jpg",
     name: "Yam (Suran / Elephant Foot)",
     quantity: "500 g",
     price: "35",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/MAS.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000273-2_19-fresho-mushrooms-button.jpg",
     name: "Mushrooms Button",
     quantity: "1 Unit",
     price: "39",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Coriander-405x330.jpg",
+      "https://www.bigbasket.com/media/uploads/p/l/10000098-2_1-fresho-coriander-leaves.jpg",
     name: "Coriander",
     quantity: "50 g",
     price: "9",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Capsicum-Yellow-405x330.jpg",
-    name: "Capsicum Yellow / Bell Pepper",
+      "https://www.bigbasket.com/media/uploads/p/l/40287310-2_1-fresho-coloured-capsicum-mix.jpg",
+    name: "Capsicum Yellow-Red/ Bell Pepper",
     quantity: "2 Pcs (250-350g)",
     price: "109",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Capsicum-Red.jpg",
-    name: "Capsicum Red",
-    quantity: "2 Pcs",
-    price: "109",
-  },
-  {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Zucchini-green-405x330.png",
+      "https://www.bigbasket.com/media/uploads/p/l/40211817_1-fresho-zucchini-green.jpg",
     name: "Zucchini Green",
     quantity: "200-300 gm/pc",
     price: "59",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Lettuce-Iceberg-405x330.png",
+      "https://www.bigbasket.com/media/uploads/p/l/10000596_11-fresho-lettuce-green.jpg",
     name: "Lettuce Iceberg",
     quantity: "200-300 gm",
     price: "109",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Broccoli-1.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000063-2_2-fresho-broccoli.jpg",
     name: "Broccoli",
     quantity: "450-550 gm",
     price: "199",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Chilli-405x330.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000081-2_2-fresho-chilli-green-long-medium.jpg",
     name: "Chillies Green",
     quantity: "100 g",
     price: "9",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Garlic.jpg",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000330_14-fresho-garlic.jpg",
     name: "Garlic Bunch / Lahsun / Vellulipaya",
     quantity: "100 g",
     price: "10",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Ginger-1-405x330.jpg",
+      "https://www.bigbasket.com/media/uploads/p/l/10000338_13-fresho-ginger.jpg",
     name: "Ginger / Adrak",
     quantity: "100 g",
     price: "6",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2022/02/Methi-Menthikura-Pesticide-Free.jpg",
+      "https://www.bigbasket.com/media/uploads/p/l/10000112-2_2-fresho-methiventhaya-keerai-cleaned-without-roots.jpg",
     name: "Methi (Fenugreek Leaves)",
     quantity: "100 g",
     price: "11",
@@ -294,67 +288,62 @@ export const vegetables = [
 ];
 export const dryfruits = [
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/5-1-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40288323-3_1-super-saver-bb-super-saver-anjeer-figs-200-g.jpg",
     name: "Anjeer Figs",
     quantity: "200 g",
     price: "182",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/4-1-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/20001095_14-fresho-apricot-dried.jpg",
     name: "Apricot",
     quantity: "500 g",
     price: "450",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/3-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40112398-3_6-bb-popular-cashewkaju-broken.jpg",
     name: "Cashew Tukda - 100gm",
     quantity: "100 g",
     price: "84",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/1-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000497-5_6-bb-popular-cashewkaju-whole.jpg",
     name: "Cashew Full",
     quantity: "200 g",
     price: "335",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/16-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40288324-3_1-super-saver-bb-super-saver-pista-california-roasted-salted-200-g.jpg",
     name: "Pista",
     quantity: "500 g",
     price: "825",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/7-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40072510-5_3-bb-royal-organic-almondbadam.jpg",
     name: "Premium Almonds/Badam",
     quantity: "1 Kg",
     price: "330",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/4-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40075470-5_6-bb-royal-organic-raisinkismis.jpg",
     name: "Premium Raisins",
     quantity: "400 g",
     price: "135",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/37-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40203930-4_1-bb-royal-organic-sunflower-seeds.jpg",
     name: "Sunflower Seeds – 250g",
     quantity: "200 g",
     price: "70",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/12-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/30000135-4_7-bb-royal-seeds-flax.jpg",
     name: "Flax Seeds",
     quantity: "200 g",
     price: "50",
   },
+  
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/11-405x330.png",
-    name: "Chironji",
-    quantity: "200 g",
-    price: "65",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/10-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40108932-4_4-gooddiet-chia-seeds-black.jpg",
     name: "Chia Seeds",
     quantity: "200 g",
     price: "119",
@@ -362,7 +351,7 @@ export const dryfruits = [
 ];
 export const staples = [
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/26-405x330.png",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000461-5_4-bb-royal-channa-kabuli.jpg",
     name: "Kabuli Sanagalu ",
     quantity: "500 g",
     price: "79",

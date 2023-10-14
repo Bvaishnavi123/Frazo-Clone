@@ -13,27 +13,27 @@ const ProductCategory = () => {
     <Box id="MainContainer">
       <Link to="/product/coldPressed">
         <Box id="Container11">
-          <img src={'https://payfresh.in/wp-content/uploads/2022/02/Cold-Pressed-oils-Payfresh-350x330.jpg'} alt="img" />
+          <img src={img1} alt="img" />
         </Box>
       </Link>
       <Link to="/product/fruits">
         <Box id="Container11">
-          <img src={'https://payfresh.in/wp-content/uploads/2022/02/Fresh-Fruits-Payfresh-350x330.jpg'} alt="img" />
+          <img src={img2} alt="img" />
         </Box>
       </Link>
       <Link to="/product/vegitables">
         <Box id="Container11">
-          <img src={'https://payfresh.in/wp-content/uploads/2022/02/Fresh-Vegetables-Payfresh-350x330.jpg'} alt="img" />
+          <img src={img3} alt="img" />
         </Box>{" "}
       </Link>
       <Link to="/product/dryfruits">
         <Box id="Container11">
-          <img src={'https://payfresh.in/wp-content/uploads/2022/02/Dry-Fruits-Honey-Payfresh-350x330.jpg'} alt="img" />
+          <img src={img5} alt="img" />
         </Box>{" "}
       </Link>
       <Link to="/product/kitchenstaples">
         <Box id="Container11">
-          <img src={'https://payfresh.in/wp-content/uploads/2022/02/Groceries-Payfresh-350x330.jpg'} alt="img" />
+          <img src={img6} alt="img" />
         </Box>{" "}
       </Link>
     </Box>
