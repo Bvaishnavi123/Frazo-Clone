@@ -77,7 +77,7 @@ export const DryfruiteCarasol = () => {
           {dryfruits?.map((ele) => (
             <Box id="carosel11">
               <Link to={`/product/${query}/${ele.name}/${ele._id}`}>
-              <Box id="imgbox">
+              <Box id="imgbox" style={{height:'100px',width:"200px"}}>
                 <img src={ele.image} />
               </Box>
               </Link>

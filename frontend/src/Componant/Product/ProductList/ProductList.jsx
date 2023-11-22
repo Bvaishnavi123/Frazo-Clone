@@ -117,7 +117,7 @@ const ProductList = () => {
         {newarray?.map((ele) => (
           <Box id="container11">
             <Link to={`/product/${query}/${ele.name}/${ele._id}`}>
-              <Box id="imgbox" onClick={()=>handelNewProduct(ele)}>
+              <Box id="imgbox" onClick={()=>handelNewProduct(ele)} style={{height:'100px',width:"200px"}}>
                 <img src={ele.image} />
               </Box>
             </Link>

@@ -1,63 +1,57 @@
 export const coldPressed = [
   {
-    image: "https://payfresh.in/wp-content/uploads/2023/03/ezgif.com-webp-to-jpg-405x330.jpg",
+    image: "https://5.imimg.com/data5/HA/JW/MY-829609/almond-oil-sweet-500x500.jpg",
     name: "Cold Pressed Sweet Almond Oil",
     quantity: "100 ml",
     price: 449,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2023/03/ezgif.com-webp-to-jpg-1-405x330.jpg",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/12/PX/OF/YC/13512250/mahua-flowers-longifolia.jpeg",
     name: "Cold Pressed Vippa / Mahua Oil",
     quantity: "1 ltr",
     price: 330,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Coconut-Cooking-Oil-payfresh-405x330.jpg",
+    image: "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/why-is-coconut-oil-good-for-you-1296x728-feature.jpg?w=1155&h=1528",
     name: "Coconut Cooking Oil ",
     quantity: "1 ltr",
     price: 599,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Coconut-Hair-Oil-payfresh1-405x330.jpg",
+    image: "https://m.media-amazon.com/images/I/71L2Rl1YGuL.jpg",
     name: "Coconut Hair Oil",
     quantity: "1 ltr",
     price: 599,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Cold-Pressed-Ground-nut-oil-payfresh1-400x330.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTblTermdWdYoo4ku1XvP4DKKVcFyfgKI8Q9Q&usqp=CAU",
     name: "Cold Pressed Ground Nut Oil",
     quantity: "1 ltr",
     price: 899,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Flaxseed-Oil-payfresh-405x330.jpg",
+    image: "https://images-static.nykaa.com/media/catalog/product/0/6/06fb29cPRAAK00000001_0710_1.jpg",
     name: "Cold Pressed Flaxseed Oil",
     quantity: "1 ltr",
     price: 679,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Sesame-Oil-payfresh-400x330.jpg",
-    name: "Cold Pressed Sesame Oil",
-    quantity: "1 ltr",
-    price: 459,
+    image: "https://5.imimg.com/data5/HA/JW/MY-829609/almond-oil-sweet-500x500.jpg",
+    name: "Cold Pressed Sweet Almond Oil",
+    quantity: "100 ml",
+    price: 449,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Kusuma-Oil-payfresh1-405x330.jpg",
-    name: "Cold Pressed Kusuma / Safflower Oil",
+    image: "https://5.imimg.com/data5/SELLER/Default/2022/12/PX/OF/YC/13512250/mahua-flowers-longifolia.jpeg",
+    name: "Cold Pressed Vippa / Mahua Oil",
     quantity: "1 ltr",
-    price: 550,
+    price: 330,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Sun-Flower-Oil-payfresh-405x330.jpg",
-    name: "Cold Pressed Sun Flower Oil ",
+    image: "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/why-is-coconut-oil-good-for-you-1296x728-feature.jpg?w=1155&h=1528",
+    name: "Coconut Cooking Oil ",
     quantity: "1 ltr",
-    price: 570,
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2022/02/Virgin-Coconut-Oil-payfresh-405x330.jpg",
-    name: "Cold Pressed Virgin Coconut Oil",
-    quantity: "1 ltr",
-    price: 660,
+    price: 599,
   },
 ];
 
@@ -69,121 +63,98 @@ export const fruits = [
     price: 14,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/04/1.png",
+    image: "https://img.freepik.com/premium-photo/ripe-yellow-mango-banana-leaf_496593-193.jpg",
     name: "Mango Banginapalli",
     quantity: "1 Kg",
     price: 219,
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/04/Rasalu-Mango.png",
+    image: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/22/w1200X800/Mango.jpg",
     name: "Mango Dasari",
     quantity: "1 Kg",
     price: 129,
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Apple-Royal-Gala-405x330.jpg",
+      "https://5.imimg.com/data5/OO/TG/MY-18928303/royal-gala-apple.jpg",
     name: "Apple Royal Gala",
     quantity: "4 Pc",
     price: "210",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/01/Muskmelon-405x330.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzgXOGxP3pNcGaDOVo5Htd9IDPE9jsvG5AQ&usqp=CAU",
     name: "Muskmelon",
     quantity: "1 Pc",
     price: "49",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Oranges-local-405x330.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKxSYAcW940ksCzSgP7nfqtQq1plAuJ6UJg&usqp=CAU",
     name: "Oranges",
     quantity: "500 g",
     price: "99",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/01/Water-Melon-405x330.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DuBTH9U4TWlnKxBY1DEhibiUJq8YsToXHA&usqp=CAU",
     name: "Watermelon kiran",
     quantity: "1 pc",
     price: "102",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Kiwi-405x330.jpg",
+      "https://images.hindustantimes.com/img/2021/09/29/1600x900/kiwi_thumb_1632910512398_1632910533046.jpg",
     name: "Kiwi",
     quantity: "3 pc",
     price: "90",
   },
   {
-    image:
-      "https://payfresh.in/wp-content/uploads/2021/01/800px_COLOURBOX1905036-405x330.jpg",
-    name: "Pomegranate Peeled",
-    quantity: "250g",
-    price: "79",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000587_11-fresho-raw-mango.jpg?tr=w-640,q=80",
+    name: "Mango Raw",
+    quantity: "250 g",
+    price: 14,
+  },
+  {
+    image: "https://img.freepik.com/premium-photo/ripe-yellow-mango-banana-leaf_496593-193.jpg",
+    name: "Mango Banginapalli",
+    quantity: "1 Kg",
+    price: 219,
+  },
+  {
+    image: "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/7/22/w1200X800/Mango.jpg",
+    name: "Mango Dasari",
+    quantity: "1 Kg",
+    price: 129,
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Apple-Shimla-405x330.jpg",
-    name: "Apple Shimla",
-    quantity: "6 pc",
-    price: "110",
+      "https://5.imimg.com/data5/OO/TG/MY-18928303/royal-gala-apple.jpg",
+    name: "Apple Royal Gala",
+    quantity: "4 Pc",
+    price: "210",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Dragon-Fruit-405x330.jpg",
-    name: "Dragon Fruit",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUzgXOGxP3pNcGaDOVo5Htd9IDPE9jsvG5AQ&usqp=CAU",
+    name: "Muskmelon",
     quantity: "1 Pc",
-    price: "105",
+    price: "49",
   },
   {
-    image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Kimia-Dates-405x330.jpg",
-    name: "Kimia Dates",
-    quantity: "1 Unit",
-    price: "115",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Papaya-405x330.jpg",
-    name: "Papaya",
-    quantity: "1 Unit",
-    price: "79",
-  },
-  {
-    image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Red-cherry-plum-405x330.jpg",
-    name: "Plum Imported",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrKxSYAcW940ksCzSgP7nfqtQq1plAuJ6UJg&usqp=CAU",
+    name: "Oranges",
     quantity: "500 g",
-    price: "275",
+    price: "99",
   },
   {
-    image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Pineapple-1-405x330.jpg",
-    name: "Pineapple",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9DuBTH9U4TWlnKxBY1DEhibiUJq8YsToXHA&usqp=CAU",
+    name: "Watermelon kiran",
     quantity: "1 pc",
-    price: "79",
+    price: "102",
   },
   {
     image:
-      "https://payfresh.in/wp-content/uploads/2021/01/Pear-405x330.jpg",
-    name: "Green Pear",
-    quantity: "3 Pc",
-    price: "250",
-  },
-  {
-    image:
-      "https://payfresh.in/wp-content/uploads/2020/12/Guava-405x330.jpg",
-    name: "Guava",
-    quantity: "1Kg",
-    price: "89",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Banana-Chakkarakeli-2-405x330.jpg",
-    name: "Banana Chakkarakeli",
-    quantity: "12 Pc",
-    price: "119",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2020/12/Banana-Karpooravali.png",
-    name: "Banana Karpooravalli",
-    quantity: "12 pc",
-    price: "69",
+      "https://images.hindustantimes.com/img/2021/09/29/1600x900/kiwi_thumb_1632910512398_1632910533046.jpg",
+    name: "Kiwi",
+    quantity: "3 pc",
+    price: "90",
   }
 ];
 export const vegetables = [
@@ -351,120 +322,120 @@ export const dryfruits = [
 ];
 export const staples = [
   {
-    image: "https://www.bigbasket.com/media/uploads/p/l/10000461-5_4-bb-royal-channa-kabuli.jpg",
-    name: "Kabuli Sanagalu ",
-    quantity: "500 g",
-    price: "79",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40288323-3_1-super-saver-bb-super-saver-anjeer-figs-200-g.jpg",
+    name: "Anjeer Figs",
+    quantity: "200 g",
+    price: "182",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/24-405x330.png",
-    name: "Jaggery/Bellam",
-    quantity: "1000 g",
-    price: "87",
+    image: "https://www.bigbasket.com/media/uploads/p/l/20001095_14-fresho-apricot-dried.jpg",
+    name: "Apricot",
+    quantity: "500 g",
+    price: "450",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/27-405x330.png",
-    name: "Moong Dal",
-    quantity: "500 g",
-    price: "49",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40112398-3_6-bb-popular-cashewkaju-broken.jpg",
+    name: "Cashew Tukda - 100gm",
+    quantity: "100 g",
+    price: "84",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/25-405x330.png",
-    name: "Pesalu (Green Moong Dal)",
+    image: "https://www.bigbasket.com/media/uploads/p/l/10000497-5_6-bb-popular-cashewkaju-whole.jpg",
+    name: "Cashew Full",
+    quantity: "200 g",
+    price: "335",
+  },
+  {
+    image: "https://www.bigbasket.com/media/uploads/p/l/40288324-3_1-super-saver-bb-super-saver-pista-california-roasted-salted-200-g.jpg",
+    name: "Pista",
     quantity: "500 g",
+    price: "825",
+  },
+  {
+    image: "https://www.bigbasket.com/media/uploads/p/l/40072510-5_3-bb-royal-organic-almondbadam.jpg",
+    name: "Premium Almonds/Badam",
+    quantity: "1 Kg",
+    price: "330",
+  },
+  {
+    image: "https://www.bigbasket.com/media/uploads/p/l/40075470-5_6-bb-royal-organic-raisinkismis.jpg",
+    name: "Premium Raisins",
+    quantity: "400 g",
     price: "135",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/35-405x330.png",
-    name: "Rajma Red",
-    quantity: "1 kg",
-    price: "140",
+    image: "https://www.bigbasket.com/media/uploads/p/l/40203930-4_1-bb-royal-organic-sunflower-seeds.jpg",
+    name: "Sunflower Seeds – 250g",
+    quantity: "200 g",
+    price: "70",
   },
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/22-405x330.png",
-    name: "Fried gram/Putnalu",
-    quantity: "1 kg",
-    price: "254",
+    image: "https://www.bigbasket.com/media/uploads/p/l/30000135-4_7-bb-royal-seeds-flax.jpg",
+    name: "Flax Seeds",
+    quantity: "200 g",
+    price: "50",
   },
+  
   {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/18-405x330.png",
-    name: "Alasandalu White",
-    quantity: "500 g",
-    price: "72",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/20-405x330.png",
-    name: "Chana Dal/Chenagalu",
-    quantity: "500 g",
-    price: "63",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/19-405x330.png",
-    name: "Channa Brown/Chenagalu",
-    quantity: "500 g",
-    price: "63",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/28-405x330.png",
-    name: "red Masoor Dal",
-    quantity: "500 g",
-    price: "69",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/36-405x330.png",
-    name: "Rajma White",
-    quantity: "500 g",
-    price: "79",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/06/38-405x330.png",
-    name: "Toor Dal",
-    quantity: "500 g",
-    price: "79",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/30-405x330.png",
-    name: "Urid Dal Split Black",
-    quantity: "500 g",
-    price: "59",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/31-405x330.png",
-    name: "Urid Dal Split White",
-    quantity: "500 g",
-    price: "59",
-  },
-  {
-    image: "https://payfresh.in/wp-content/uploads/2021/07/33-405x330.png",
-    name: "White Peas",
-    quantity: "500 g",
-    price: "69",
-  },
+    image: "https://www.bigbasket.com/media/uploads/p/l/40108932-4_4-gooddiet-chia-seeds-black.jpg",
+    name: "Chia Seeds",
+    quantity: "200 g",
+    price: "119",
+  }
 ];
 
 export const Bestdeal=   [
 	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Chicken-Masala-405x330.jpg",
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxyNeqYrJe6D3OBv8E8-wAwCPz66IplE22g&usqp=CAU",
 		name: "Chicken Masala 500 G",
 		quantity: "500 g",
 		price: 510
 	},
 	
 	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Lemon-Pickle-405x330.jpg",
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aUlMLnSPDoC-nA7NApMADnMFJfFK0enIRg&usqp=CAU",
 		name: "Lemon Pickle 500g",
 		quantity: "1 Kg",
 		price: 108
 	},
   
 	{
-		image: "https://payfresh.in/wp-content/uploads/2021/07/honey-1-1-1-405x330.png",
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PWwNyCDOhjwdQ_LvByxhZkDVYsujCklM_Q&usqp=CAU",
 		name: "Natural Forest Honey",
 		quantity: "1 Unit",
 		price: "319"
 	},
 	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Gongura-Pickle-405x330.jpg",
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyj-AkIXTfY4xVfhzAJeB1_jjEqZ-b-uWIvQ&usqp=CAU",
+		name: "Gongura Pickle",
+		quantity: "1 Unit",
+		price: "302"
+	},
+
+	
+  
+	{
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxxyNeqYrJe6D3OBv8E8-wAwCPz66IplE22g&usqp=CAU",
+		name: "Chicken Masala 500 G",
+		quantity: "500 g",
+		price: 510
+	},
+	
+	{
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aUlMLnSPDoC-nA7NApMADnMFJfFK0enIRg&usqp=CAU",
+		name: "Lemon Pickle 500g",
+		quantity: "1 Kg",
+		price: 108
+	},
+  
+	{
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PWwNyCDOhjwdQ_LvByxhZkDVYsujCklM_Q&usqp=CAU",
+		name: "Natural Forest Honey",
+		quantity: "1 Unit",
+		price: "319"
+	},
+	{
+		image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyj-AkIXTfY4xVfhzAJeB1_jjEqZ-b-uWIvQ&usqp=CAU",
 		name: "Gongura Pickle",
 		quantity: "1 Unit",
 		price: "302"
@@ -475,49 +446,5 @@ export const Bestdeal=   [
 		name: "Rasam Masala",
 		quantity: "1 Kg",
 		price: "49"
-	},
-  
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Curry-Leaf-Pickle-405x330.jpg",
-		name: "Curry Leaf Pickle",
-		quantity: "500 g",
-		price: "240"
-	},
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Red-Chilli-Pickle-405x330.jpg",
-		name: "Red Chilli Pickle",
-		quantity: "500 g",
-		price: "190"
-	},
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Drum-Stick-Pickle-405x330.jpg",
-		name: "Drum Stick Pickle",
-		quantity: "1 Unit",
-		price: "349"
-	},
-   
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Biryani-Masala-405x330.jpg",
-		name: "Biryani Masala",
-		quantity: "500 gm",
-		price: "129"
-	},
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Sambar-Masala-405x330.jpg",
-		name: "Sambar Masala",
-		quantity: "500 gm",
-		price: "122"
-	},
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Garam-Masala-405x330.jpg",
-		name: "Garam Masala",
-		quantity: "50 gm",
-		price: "51"
-	},
-	{
-		image: "https://payfresh.in/wp-content/uploads/2022/02/Turmeric-Powder-405x330.jpg",
-		name: "Turmeric Powder",
-		quantity: "50 gm",
-		price: "51"
 	},
 ]

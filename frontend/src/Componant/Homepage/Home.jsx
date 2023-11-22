@@ -34,10 +34,10 @@ const Home = () => {
         <p id="headingboxText">DRYFRUITS</p>
       </Box>
       <DryfruiteCarasol />
-      <Box id="headingbox">
+      {/* <Box id="headingbox">
         <p id="headingboxText">KITCHEN STAPLES</p>
       </Box>
-      <StaplesCarasol />
+      <StaplesCarasol /> */}
     </>
   );
 };

@@ -57,7 +57,7 @@ export const BestDealCarasol = () => {
           {Bestdeal.map((ele) => (
             <Box id="carosel11">
              
-              <Box id="imgbox">
+              <Box id="imgbox" style={{height:'100px',width:"200px"}}>
                 <img src={ele.image} />
               </Box>
              
